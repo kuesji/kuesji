@@ -1,6 +1,5 @@
-android expert / linux developer / freelancer
-
-see [kuesji.koesnu.com](https://kuesji.koesnu.com) for more things
+android expert / linux developer / freelancer </br>
+see [kuesji.koesnu.com](https://kuesji.koesnu.com) for more
 
 also `kongos` says 
 ```
