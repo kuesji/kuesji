@@ -7,4 +7,4 @@ you must see:
 
 wanna support me?
 - buy me a beer via [buymeabeer.com/kuesji](https://buymeabeer.com/kuesji)
-- hire me via [upwork.com/o/profiles/users/~01b22c7b86b8ff1356/](https://www.upwork.com/o/profiles/users/~01b22c7b86b8ff1356/)
+- hire me via [upwork.com/fl/kuesji](https://www.upwork.com/fl/kuesji)
