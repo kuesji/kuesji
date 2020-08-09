@@ -6,5 +6,5 @@ you must see:
 - [#linux-tools](https://github.com/kuesji/kuesji/blob/master/linux-tools.md) for my linux tools
 
 wanna support me?
-- buy me a beer via [buymeabeer.com/kuesji](https://buymeabeer.com/kuesji)
+- buy me a beer via [buymeacoffee.com/kuesji](https://buymeabeer.com/kuesji)
 - hire me via [upwork.com/fl/kuesji](https://www.upwork.com/fl/kuesji)
