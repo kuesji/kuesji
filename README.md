@@ -1,5 +1,5 @@
 android expert / linux developer / freelancer </br>
-see [kuesji.koesnu.com](https://kuesji.com) for more
+see [kuesji.com](https://kuesji.com) for more
 
 you must see:
 - [#android](https://github.com/kuesji/kuesji/blob/master/android.md) for my android projects
